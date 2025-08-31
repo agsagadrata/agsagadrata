@@ -1,5 +1,7 @@
 <h1 align="center">Annyeong! I am April Grace S. Sagadrata</h1> 
+
 ![Funny Cat](https://i.pinimg.com/originals/8c/95/0c/8c950c97a9a1cc4c3b91e595616ad852.gif) 
+
 <h3 align="center">4th Year BSIT Major in Network Systems</h3> <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://fb.com/dc.grace.1" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dc.grace.1" height="30" width="40" /></a> <a href="https://instagram.com/gra__sya" target="blank">
